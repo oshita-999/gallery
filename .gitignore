@@ -1,0 +1,5 @@
+﻿.settings
+build
+src/main/webapp/META-INF
+.classpath
+.project
